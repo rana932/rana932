@@ -6,7 +6,9 @@
 
 ## 👋 About Me
 
-Aspiring Full Stack Developer based in Pune, Maharashtra. Currently pursuing Master of Computer Application at Sandip University. I'm passionate about creating intuitive web solutions with clean, efficient code.
+Hi there! I'm Abhijeet Rana, an Aspiring Full Stack Developer based in Pune, Maharashtra. 
+Currently pursuing Master of Computer Application at Sandip University. 
+I'm passionate about creating intuitive web solutions with clean, efficient code.
 
 - 🌱 I'm currently learning **Django and Advanced Python**
 - 🚀 Working on expanding my portfolio with full-stack projects
@@ -66,3 +68,13 @@ I'm always open to collaborating on projects and innovative ideas. Feel free to 
 - 📧 ranaabhi9068@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/abhijeet-rana-583a7b284)
 - 🌐 [Portfolio](https://abhijeet001.pythonanywhere.com)
+
+
+## 💡 Fun Fact  
+I’m a creative soul with a passion for clean code and sleek designs. 
+I love bringing ideas to life through web pages—and when it comes to Python, I’m all in! 
+To become a Developer at Microsoft is my dream, and every line of code is a step closer.
+
+## ✨ Fun Quote to Live By
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
