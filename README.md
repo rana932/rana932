@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ranaabhi9068@gmail.com)
 
 ## 👋 About Me  
-Hey there! I'm Abhijeet Rana, an aspiring **Full Stack Developer** with a creative mind and a deep love for **Python**. I enjoy building intuitive, responsive websites that not only function smoothly but also look great. My journey in tech has been shaped by curiosity, self-learning, and hands-on experience—from designing dynamic blogs to integrating APIs and crafting machine learning models.  
+Hey there! I'm Abhijeet Rana, an aspiring **Full Stack Developer** with a creative mind and a deep love for **Python**. I enjoy building intuitive, responsive websites that not only function smoothly but also look great.
 I'm focused on writing clean, efficient code and transforming ideas into powerful, functional solutions. Whether it's designing responsive websites, automating tasks with Python, or visualizing data with libraries like Matplotlib and Seaborn, I’m always excited to solve problems and keep learning.
 
 - 🌱 I'm currently learning **Django and Advanced Python**
